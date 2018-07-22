@@ -4,7 +4,7 @@ TYPE=centos
 USER=centos
 NUMINSTANCES=5
 HOSTPREFIX='hgalante-'
-FIELDPEM='/Users/hgalante/Cloud/dev/field.hortonworks.com/field.pem'
+FIELDPEM='field.pem'
 START=1
 
 n=$START
